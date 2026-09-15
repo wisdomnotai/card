@@ -58,3 +58,14 @@
 .image span{
     margin:10px auto;
 }
+@media (min-width: 768px){
+    .card{
+        max-width:700px;
+    }
+    .image{
+        height:350px;
+    }
+    .product-content{
+        padding:40px;
+    }
+}
