@@ -40,3 +40,9 @@
     font-size: 1 rem;
     margin: 0 0 20px;
 }
+.product-content .price{
+    color:blue;
+    font-size:1.2rem;
+    font-weight: bold;
+    margin-bottom:8px;
+}
