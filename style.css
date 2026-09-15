@@ -53,4 +53,8 @@
     color:#fff; 
     padding:15px;
     margin:0 auto;
+    border-radius: 10px;
+}
+.image span{
+    margin:10px auto;
 }
