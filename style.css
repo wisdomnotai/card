@@ -17,11 +17,14 @@
 }
 .image{
     width:100%;
-    padding:50px;
+    height: 150px;
     background-color: blue;
     color:white;
     margin:0;
     font-weight: bold;
     border-top-left-radius: 10px;
     border-top-left-radius: 10px;
+}
+.product-content{
+    padding: 32px 24px;
 }
