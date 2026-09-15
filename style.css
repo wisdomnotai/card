@@ -28,3 +28,9 @@
 .product-content{
     padding: 32px 24px;
 }
+.product-content h3{
+    margin:0 0 25px;
+    font-size: 1.2rem;
+    line-height: 1.2;
+    color:#000;
+}
